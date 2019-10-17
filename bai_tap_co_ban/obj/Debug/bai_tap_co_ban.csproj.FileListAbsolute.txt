@@ -1,0 +1,6 @@
+E:\C#\bai_tap_co_ban\bai_tap_co_ban\bin\Debug\bai_tap_co_ban.exe.config
+E:\C#\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.csprojResolveAssemblyReference.cache
+E:\C#\bai_tap_co_ban\bai_tap_co_ban\bin\Debug\bai_tap_co_ban.exe
+E:\C#\bai_tap_co_ban\bai_tap_co_ban\bin\Debug\bai_tap_co_ban.pdb
+E:\C#\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.exe
+E:\C#\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.pdb
